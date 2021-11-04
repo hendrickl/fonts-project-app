@@ -1,7 +1,7 @@
 # Fonts 
 
 [Fonts](https://google-fonts-widget-redteam.netlify.app/ "Fonts web application") is a react project.<br>
-In this prject we use Google fonts API.<br>
+In this prject we use Google fonts API to play and interact with differents fonts on their size.<br>
 Fonts is deployed on Netlify.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
